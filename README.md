@@ -46,4 +46,4 @@ Usage Examples:<br />
        
     3.3 All Usage examples at the end of rest.py
 </pre>
-<strong style="text-color: red;"> [TODO]</strong> Update readme to demo a complete cube construction
+<strong style="font-color: red;"> [TODO]</strong> Update readme to demo a complete cube construction
