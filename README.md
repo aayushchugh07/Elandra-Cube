@@ -42,7 +42,7 @@ Usage Examples:<br />
     3.1 Run python rest.py on the rest server.
       Make sure you have flask installed first.
     3.2 Create cube
-        curl -XGET http://localhost:5000/makecube?keyspace="cassandra_keyspace_name"&tablename="cassandra_table_name"
+        curl -XPOST http://localhost:5000/makecube?keyspace="cassandra_keyspace_name"&tablename="cassandra_table_name"
        
     3.3 All Usage examples at the end of rest.py
 </pre>
